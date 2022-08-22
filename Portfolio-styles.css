@@ -173,7 +173,7 @@ img {
 }
 
 .projects-section-header {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0 auto 6rem auto;
   border-bottom: 0.2rem solid var(--main-white);
 }
