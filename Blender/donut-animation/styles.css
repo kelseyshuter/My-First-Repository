@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 10px;
+    background: rgb(173, 188, 230);
+    height: 100vh;
+}
+
+#video-player {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    width: 100%;
+}
+
+#donut-video {
+    height: 90%;
+    width: 90%;
+}
+
+@media (max-width: 400px) {
+    #donut-video {
+        height: 600px;
+        width: 350px;
+    }
+}
